@@ -75,7 +75,7 @@ const addEngineer = () => {
       {
         type: "input",
         name: "engineerName",
-        message: "Enter engineers name",
+        message: "Enter engineer's name:",
       },
       {
         type: "input",
@@ -89,7 +89,7 @@ const addEngineer = () => {
       },
       {
         type: "input",
-        name: "githubUser",
+        name: "engineerGithub",
         message: "Enter engineer's github username:",
       },
     ])
@@ -111,7 +111,7 @@ const addIntern = () => {
       {
         type: "input",
         name: "internName",
-        message: "Enter interns name",
+        message: "Enter intern's name:",
       },
       {
         type: "input",
