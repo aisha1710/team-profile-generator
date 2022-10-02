@@ -40,7 +40,7 @@ Clone the repository and run command npm install.
 
 Run node index.js command on terminal. Input team information when prompted.
 
-Link to demonstration:
+Link to demonstration: https://drive.google.com/file/d/1JkQyL-sckrAsVDlBe8AiESbjhCNZqi11/view
 
 ## Questions
 
